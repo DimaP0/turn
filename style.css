@@ -1,0 +1,62 @@
+input {
+    width: 10%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(73, 79, 94);
+    border-radius: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.input_div{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(196, 240, 255);
+    border-radius: 10px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(53, 54, 66);
+    color: aliceblue;
+
+}
+
+.content{
+    background-color: rgb(68, 68, 100);
+    border: 1px solid white;
+    color: aliceblue;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.turn_field {
+    height: 300px;
+    width: auto;
+    text-align: center;
+    overflow-y: scroll; 
+    scrollbar-highlight-color: blue;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    background-color: rgba(151, 154, 215, 0.301);
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+button:hover{
+    background-color: rgb(50, 88, 110);
+    color: aliceblue;
+}

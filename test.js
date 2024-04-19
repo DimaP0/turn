@@ -1,0 +1,5 @@
+console.log('а'.charCodeAt(0))
+console.log('я'.charCodeAt(0))
+console.log('--------------------------------------------------------')
+console.log('А'.charCodeAt(0))
+console.log('Я'.charCodeAt(0))
